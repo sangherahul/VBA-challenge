@@ -2,8 +2,7 @@ Sub homework():
 
 Dim lastrow, lastrow1, total, i, a, b, total_count, x As LongLong
 
-'Dim rng As Range
-'Dim condition1 As FormatCondition, condition2 As FormatCondition
+
 Dim GP_Increase, GP_Decrease, closing_value, opening_value As Double
 
     For Each ws In Worksheets
